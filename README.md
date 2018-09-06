@@ -35,7 +35,7 @@ API Sample Project
 •	The Sample API’s are open source API’s that were utilized from this website : 
 o	http://www.groupkt.com/post/5c85b92f/restful-webservice-to-get-and-search-states-and-territories-of-a-country.htm
 
-•	After completing the above installation instructions, please clone the git/innersource repository from github to your C:/drive: 
+•	After completing the above installation instructions, please clone the git repository from github to your C:/drive: 
 o	https://github.com/vemireddy1234/OpenSourceApiPoc.git
 o	Open the downloaded project in Visual Studio through explorer or directly open the Project from windows explorer in Visual Studio Code  
 
